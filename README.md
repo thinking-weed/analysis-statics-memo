@@ -9,3 +9,5 @@ variance 分散
 formula 公式
 
 restored　復元（１回引いたやつをまた、箱とか袋に戻す）⇒べき乗
+
+definition　定義
